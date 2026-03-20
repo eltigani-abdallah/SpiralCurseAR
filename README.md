@@ -16,4 +16,4 @@ Point your phone camera at wall art or drawings, and watch as a spiral demon ent
 
 ## credits
 
-Made by [Elti](https://github.com/eltigani-abdallah) & [Leila](https://github.com/leila-wilde) for Ksana's birthday. 
+Made by [Eltigani](https://github.com/eltigani-abdallah) & [Leila](https://github.com/leila-wilde) for Ksana's birthday. 
