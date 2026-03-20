@@ -2,7 +2,7 @@
 
 A creepy AR experience where a spiral demon entity augments reality through your mobile camera - *inspired by [Uzumaki](https://uzumaki.fandom.com/wiki/Uzumaki_Wiki) by [Junji Ito](https://en.wikipedia.org/wiki/Junji_Ito).*
 
-![spiral demon with game title](./resources/images/SpiralCurse.png)
+![spiral demon with game title](./Assets/resources/images/SpiralCurse.png)
 
 ## overview
 
