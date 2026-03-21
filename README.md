@@ -17,3 +17,5 @@ Point your phone camera at wall art or drawings, and watch as a spiral demon ent
 ## credits
 
 Made by [Eltigani](https://github.com/eltigani-abdallah) & [Leila](https://github.com/leila-wilde) for Ksana's birthday. 
+
+AI animations were made using the free gif generation tool at https://aigifgenerator.io/.
