@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="zodiac-puzzle" size="0.600000 0.422989" />
+    <ImageTarget name="elements" size="0.600000 0.324025" />
+    <ImageTarget name="birthdayday-card-contrast" size="0.120000 0.120463" />
+    <ImageTarget name="plant-puzzle" size="0.500000 0.691451" />
+    <ImageTarget name="insect-puzzle" size="0.500000 0.620114" />
+    <ImageTarget name="heart-skeleton-puzzle" size="0.500000 0.702307" />
+    <ImageTarget name="cats-framed" size="0.350000 0.458761" />
+    <ImageTarget name="uzumakipostertransparent" size="0.600000 0.889305" />
+    <ImageTarget name="cat-puzzle" size="0.500000 0.691254" />
+    <ImageTarget name="ghost-bat-embroidery" size="0.120000 0.115422" />
+    <ImageTarget name="shoe-embroidery" size="0.120000 0.117931" />
+    <ImageTarget name="furby-embroidery" size="0.120000 0.123909" />
+    <ImageTarget name="testingcard" size="0.150000 0.250522" />
+  </Tracking>
+</QCARConfig>
