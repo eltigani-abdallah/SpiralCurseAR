@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="zodiac-puzzle" size="0.600000 0.422989" />
+    <ImageTarget name="elements" size="0.600000 0.324025" />
+    <ImageTarget name="birthdayday-card-contrast" size="0.120000 0.120463" />
     <ImageTarget name="plant-puzzle" size="0.500000 0.691451" />
     <ImageTarget name="insect-puzzle" size="0.500000 0.620114" />
     <ImageTarget name="heart-skeleton-puzzle" size="0.500000 0.702307" />
